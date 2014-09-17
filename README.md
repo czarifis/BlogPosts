@@ -1,4 +1,4 @@
-Blog-Posts
+Blog Repo
 ==========
 
 This repo  has all the blog posts that are posted on [my blog](http://blog.zarifis.info)
