@@ -1,4 +1,4 @@
-## Installing angular JS on a Debian server
+## Installing angular JS on Ubuntu
 
 First thing first if this is a fresh OS installation we need to refresh the local package index of our package manager...
 
