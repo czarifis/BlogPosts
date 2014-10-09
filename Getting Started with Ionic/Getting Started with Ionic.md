@@ -1,6 +1,8 @@
 # Getting started with Ionic (AngularJS for mobile & Cordova)
 
 
+![Ionic](ionic.jpg)
+
 Ionic is an HTML5 mobile app development framework targeted at building hybrid mobile apps. Hybrid apps are essentially small websites running in a browser shell in an app that have access to the native platform layer. Hybrid apps have many benefits over pure native apps, specifically in terms of platform support, speed of development, and access to 3rd party code. For more information check the [official website](http://ionicframework.com):
 
 OK! Let's get started! Firstly we need to install Cordova. In order to do that we need to install NodeJS, so if you haven't done this already do it and come back here. 
