@@ -38,3 +38,8 @@ If you did everything correctly you should see the same path you were seeing whi
 If that's the case, congrats, you're done! You just set your JAVA_ENVIRONMENT variable. :)
 
 If not then go to the .bashrc file again remove the "export JAVA_HOME..." line and start over.
+
+
+
+dsadsa
+$$ s^2 $$
