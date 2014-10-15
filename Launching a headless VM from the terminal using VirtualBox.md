@@ -25,4 +25,10 @@ The _"type headless"_ basically means that no window showing the actual running 
 
 If you want to run a headless VM using VirtualBox's GUI press shift and click on the start button after having selected the VM you want to launch. It might come in handy at some point...
 
+To power off the VM using the terminal do:
+
+	VBoxManage controlvm UbuntuVM poweroff 
+    
+It is suggested to not power off the VM this way. Instead log in to the VM and shut it down.
+
 That's all folks!
