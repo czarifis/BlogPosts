@@ -4,13 +4,19 @@ So this error appears quite frequently if you're developing android applications
 
 And here is how you fix that...
 
-First of all you have to navigate to the android SDK directory. When you do that run the following:
+First try doing the following:
+
+	
+	adb kill-server
+    adb start-server
+
+If this doesn't fix the problem, navigate to the android SDK directory and run the following:
 
 	cd /platform-tools
     sudo chown root:<yourUserGroup> adb
     sudo chmod 4550 adb
     ./adb kill-server
-    adb start-server
+    ./adb start-server
 
 If you've enable the USB debugging on your physical device, a popup is going to show up asking if you want to accept the USB connection, tap on OK and you're done!
 
